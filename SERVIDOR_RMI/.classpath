@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="appClientModule"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path="/REPO"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rc/Documents/Workspace/SERVIDOR_RMI/DEPENDENCIES/HIB/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
